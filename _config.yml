@@ -1,0 +1,27 @@
+title: Byeonggil Jung
+url: "https://byeonggil-jung.github.io/"
+baseurl: ""
+description: Introduction for Byeonggil Jung
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+footer: yes
+footer_url: "https://github.com/ankitsultana"
+footer_text: "Page design by Ankit Sultana"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "CV"
+   link: "https://github.com/ByeongGil-Jung/ByeongGil-Jung.github.io/tree/temp2/cv.pdf"
+ - name: "Github"
+   link: "https://github.com/ByeongGil-Jung"
+ - name: "Google Scholar"
+   link: "https://scholar.google.co.kr/citations?user=08R1YdoAAAAJ"
+ - name: "Youtube"
+   link: "https://youtube.com/@lilac7230"
